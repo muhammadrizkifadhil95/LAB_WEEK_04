@@ -1,3 +1,5 @@
+package com.example.lab_week_04
+
 class CafeAdapter {
     val TABS_FIXED = listOf(
         R.string.starbucks_title,
